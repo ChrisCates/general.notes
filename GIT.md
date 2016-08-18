@@ -16,3 +16,8 @@
 4. If you have unstaged files. You can follow the steps up to step 4 for (1) How to push up to a server
 5. Then you can do `git pull origin master`
 6. Then you can do `git push origin master` to push your unstaged files.
+
+#### (3) How to clone a repository
+1. Open up terminal or command line
+2. Go to the desired folder you want to clone it to
+3. Run the command `git clone [the url of the repository]`
