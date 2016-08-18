@@ -9,7 +9,7 @@
 4. Run the command `git commit -m "your awesome message here"` to commit your code (with a message)
 5. Run the command `git push origin master`
 
-#### How to pull from a server if you made changes on another computer or someone else made changes
+#### (2) How to pull from a server if you made changes on another computer or someone else made changes
 1. Open up terminal or command line
 2. Go to the root directory of your git repository
 3. Run the command `git pull origin master`
