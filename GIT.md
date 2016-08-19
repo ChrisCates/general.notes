@@ -21,3 +21,14 @@
 1. Open up terminal or command line
 2. Go to the desired folder you want to clone it to
 3. Run the command `git clone [the url of the repository]`
+
+#### (4) How to use `.gitignore`
+1. You use it to ignore certain files you don't want to stage for commits to github
+2. You just put in the file/folder you want to ignore in each new line is a file or folder:
+
+##### Example .gitignore
+```
+node_modules
+npm_debug.log
+```
+
