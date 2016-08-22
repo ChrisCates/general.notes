@@ -21,3 +21,4 @@
 
 ### [ANGULAR1.x_1.md](./ANGULAR1.x_1.md) - Part 1 of how to use Angular 1.x
 ### [ANGULAR1.x_2.md](./ANGULAR1.x_2.md) - Part 2 of how to use Angular 1.x
+### [ANGULAR1.x_3.md](./ANGULAR1.x_3.md) - Part 3 of how to use Angular 1.x

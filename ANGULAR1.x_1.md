@@ -60,7 +60,7 @@ Data-binding is an automatic way of updating the view whenever the model changes
     <!-- Write your own custom module and declare the controller -->
     <script>
     var myApp = angular.module('myApp', [])
-    myApp.controller("myController", function() {
+    myApp.controller("myController", function($scope) {
       //This functions runs on initialization...
       //The message will start off as "Hello" in the input box and in the paragraph tag.
       $scope.message = "Hello"
@@ -91,7 +91,7 @@ Data-binding is an automatic way of updating the view whenever the model changes
     <!-- Write your own custom module and declare the controller -->
     <script>
     var myApp = angular.module('myApp', [])
-    myApp.controller("myController", function() {
+    myApp.controller("myController", function($scope) {
       //This functions runs on initialization...
 
       //The message will start off as "Hello" in the input box and in the paragraph tag.

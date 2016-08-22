@@ -15,7 +15,7 @@
     <script src="angular.min.js"></script>
     <script>
     var myApp = angular.module('myApp', [])
-    myApp.controller("myController", function() {
+    myApp.controller("myController", function($scope) {
       //Declare an array in $scope
       $scope.myArray = [1, 2, 3, 4, 5]
       //Declare an array with objects in $scope
