@@ -1,4 +1,4 @@
-# Angular 1.x Part 1 Notes
+# Angular 1.x Part 3 Notes
 
 ## How do we do AJAX requests?
 
@@ -46,3 +46,9 @@
   </body>
 </html>
 ```
+
+## Summary
+
+- We utilize the `$http` function which is passed in the controller
+- We specify a URL and method
+- We can also specify `params` for a the query string and `data` for the request payload
