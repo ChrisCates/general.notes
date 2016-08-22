@@ -1,4 +1,4 @@
-# Angular 1.x 1 Notes
+# Angular 1.x Part 1 Notes
 
 ## What is Angular?
 

@@ -1,4 +1,4 @@
-# React Notes 1
+# React Notes Part 1
 ## What is React?
 
 ### In Facebook's words:
