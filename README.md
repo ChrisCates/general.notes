@@ -16,6 +16,7 @@
 ## React/Redux
 
 ### [REACT1.md](./REACT1.md) - Part 1 of how to use React.js
+### [REACT2.md](./REACT2.md) - Part 2 of how to use React.js
 
 ## Angular 1.x
 
