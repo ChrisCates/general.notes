@@ -17,6 +17,7 @@
 
 ### [REACT1.md](./REACT1.md) - Part 1 of how to use React.js
 ### [REACT2.md](./REACT2.md) - Part 2 of how to use React.js
+### [REACT3.md](./REACT3.md) - Part 3 of how to use React.js
 
 ## Angular 1.x
 
