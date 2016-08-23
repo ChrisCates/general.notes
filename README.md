@@ -9,6 +9,7 @@
 ### [GIT.md](./GIT.md) - Notes on how to use git
 ### [CLI.md](./CLI.md) - Notes on how to use command line
 ### [NPM.md](./NPM.md) - Notes on how to use NPM commands
+### [CONVENTIONS1.md](./CONVENTION1.md) - Notes on proper Coding Conventions Part 1
 ### [JSON.md](./JSON.md) - Notes on what JSON is and how to use it
 ### [JS_Arrays.md](./JS_Arrays.md) - Notes on how to traverse JS Arrays
 ### [ATOM.md](./ATOM.md) - How to effectively use Atom (Atom.io)
