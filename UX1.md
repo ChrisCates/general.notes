@@ -8,7 +8,7 @@
 
 ## Examples of UX
 
-- ![An example list](https://econsultancy.com/blog/66731-25-excellent-ux-examples-from-ecommerce-sites/)
+- [An example list](https://econsultancy.com/blog/66731-25-excellent-ux-examples-from-ecommerce-sites/)
 - Things that are simple to use.
 - A 5 year old can understand it.
 
